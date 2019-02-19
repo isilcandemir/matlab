@@ -139,26 +139,6 @@
 %tic; toc; preallocation with ones and zeros
 %' ' char, " " string
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+%FOR DIFFERENT DATA TYPES > CELL ARRAY
 
 
