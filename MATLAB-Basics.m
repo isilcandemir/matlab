@@ -136,7 +136,7 @@
 
 %% PREALLOCATION & DATA TYPES
 
-%tic; toc; preallocation with ones and zeros
+%tic; toc; preallocation with matrix ones and zeros to save time
 %' ' char, " " string
 
 %FOR DIFFERENT DATA TYPES > CELL ARRAY
